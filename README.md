@@ -74,7 +74,7 @@ java -version
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/bansimojidra-2005/Java.git
 ```
 
 ### 3. Open the Project
